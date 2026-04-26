@@ -1,2 +1,2 @@
-# joelrios2k7.github.io
-Project for my ENGL 1302 San Jacinto class.
+# Archiving Culure 101
+### Joel's guide on what to know about storing cultural information on the internet!
